@@ -4,7 +4,7 @@
 
 In this competition we had to predict the genetic subtype of glioblastoma using MRI (magnetic resonance imaging) scans to train and test your model to detect for the presence of MGMT promoter methylation.
 
-If successful, you'll help brain cancer patients receive less invasive diagnoses and treatments. The introduction of new and customized treatment strategies before surgery has the potential to improve the management, survival, and prospects of patients with brain cancer.
+If successful, we would help brain cancer patients receive less invasive diagnoses and treatments. The introduction of new and customized treatment strategies before surgery has the potential to improve the management, survival, and prospects of patients with brain cancer.
 
 ![image](https://user-images.githubusercontent.com/63582471/138129528-24e780d4-cd7f-47e6-868e-38941a09a17a.png)
 
