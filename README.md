@@ -13,6 +13,9 @@ After more than 170 submissions, ended up with an ensemble approach of Flair and
 Custom CNN models were built with very low number of epochs as the models were highly overfitting.
 Models seem to learn very little. Even the competition winner had about 62% accuracy. My personal best was a late submission of this particular code. The submission code will be found in my Kaggle profile under code section. Accuracy received was 57%.
 
+![Screenshot 2021-10-23 152031](https://user-images.githubusercontent.com/63582471/138551538-7c11ed97-47f0-42e4-8082-879f1977cf84.jpg)
+
+
 Submissions are evaluated on the area under the ROC curve between the predicted probability and the observed target.
 
 
