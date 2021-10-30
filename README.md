@@ -15,6 +15,18 @@ Models seem to learn very little. Even the competition winner had about 62% accu
 
 ![Screenshot 2021-10-23 152031](https://user-images.githubusercontent.com/63582471/138551538-7c11ed97-47f0-42e4-8082-879f1977cf84.jpg)
 
+Challenges I faced in this competition:-
+1. It took me about 3 weeks just to read the dicom images from the repositories.
+2. Models weren't learning anything. (training loss was stuck at 0.6). Well this was normal for this competition I guess. 
+3. Few images were blank so I had to ignore them by setting up a threshold for the sum of pixels of an dicom image.
+4. Since my personal laptop has low processing power, I had to rely on kaggle notebooks which are amaizing except the limited RAM. 
+5. Because of memory issues I experimented a lot and ended up with image size of 150X150 resulting in 7000 images.
+
+Mistakes from my side:-
+1. I took the leaderboard too seriously. It was highly overfitting. My final/private scores were way way low.
+2. Choose the wrong final submission. I dropped from top 7% to top 94%.
+3. Went for highly complex models. 
+
 
 Submissions are evaluated on the area under the ROC curve between the predicted probability and the observed target.
 
